@@ -16,6 +16,11 @@ var (
 	name1, lastName1 string
 )
 
+const (
+	lat  int = 52
+	long int = 85
+)
+
 func main() {
 	// var family string
 	name = "amir"
