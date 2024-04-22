@@ -1,6 +1,7 @@
 package main
 
 // you can define variable with var or :=
+//  if you variable is constants that you never chnage it
 import (
 	"fmt"
 	"reflect"
